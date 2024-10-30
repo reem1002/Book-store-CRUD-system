@@ -81,25 +81,6 @@ src/
 
    The app will open in the browser at [http://localhost:3000](http://localhost:3000).
 
-### Adding a Favicon
-
-1. Create or download a favicon image (`favicon.ico`) with dimensions 32x32 or 16x16 pixels.
-2. Place the `favicon.ico` file in the `public` folder of your project.
-3. Add the following line to your `public/index.html` file in the `<head>` section:
-
-   ```html
-   <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-   ```
-
-## Screenshots
-
-### Insert Book Form
-![Insert Book Form Screenshot](screenshot.png)
-
 ## Troubleshooting
 
 - **Unexpected token errors**: Ensure JSON responses are correctly structured and the JSON Server is running.
-
-## License
-
-This project is licensed under the MIT License.
