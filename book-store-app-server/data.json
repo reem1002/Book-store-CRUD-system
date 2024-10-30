@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "price": 45,
+      "description": "A dystopian novel by George Orwell, presenting a future totalitarian society under constant surveillance.",
+      "author": "George Orwell"
+    },
+    {
+      "id": "2",
+      "title": "Stranger",
+      "price": 50,
+      "description": "Meursault, an indifferent settler in French Algeria, who, weeks after his mother's funeral, kills an unnamed Arab man in Algiers.",
+      "author": "Albert Camus"
+    },
+    {
+      "id": "4",
+      "title": "The Catcher in the Rye",
+      "price": 31,
+      "description": "A novel by J.D. Salinger, centered around a young man, Holden Caulfield, who experiences teenage angst and rebellion.",
+      "author": "kkkk"
+    },
+    {
+      "id": "5",
+      "title": "To Kill a Mockingbird",
+      "price": 35,
+      "description": "A novel by Harper Lee that explores racism and injustice in the deep South, narrated by a young girl, Scout Finch.",
+      "author": "Harper Lee"
+    },
+    {
+      "id": "4d8a",
+      "title": "كتاب حياتي يا عين",
+      "author": "Reem Mohamed",
+      "price": "0",
+      "description": "مشوفتش زيه كتاب الفرح فيه سطرين و الباقي كله عذاب، 01022391604"
+    },
+    {
+      "id": "9",
+      "title": "Pride and Prejudice",
+      "price": 42,
+      "description": "A romantic novel by Jane Austen that explores themes of love, social class, and morality through the story of Elizabeth Bennet and Mr. Darcy.",
+      "author": "Jane Austen"
+    }
+  ]
+}
